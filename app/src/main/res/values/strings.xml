@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">JAVA</string>
+    <string name="Text2_str">TextView2 : 아가새 어디 안가</string>
+    <string name="Text4_str">TextView4 : 인생이 무너져도 갓세븐</string>>
 </resources>
